@@ -1,0 +1,6 @@
+SID_LIST_LISTENER =
+		(SID_DESC =
+			(SID_NAME = dup)
+			(ORACLE_HOME = C:/app/User/product/11.2.0/dbhome_1)
+			
+			)

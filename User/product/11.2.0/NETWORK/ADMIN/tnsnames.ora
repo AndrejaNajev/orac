@@ -1,0 +1,20 @@
+dup =
+ (DESCRIPTION =
+ (ADDRESS_LIST =
+	(ADDRESS = (PROTOCOL = TCP)(HOST = localhost.localdomain)(PORT = 1521))
+ )
+ (CONNECT_DATA =
+	(SERVER = DEDICATED)
+	(SERVICE_NAME = dup)
+ )
+ )
+ 
+ANAJ =
+ (DESCRIPTION =
+ (ADDRESS = (PROTOCOL = TCP)(HOST = localhost.localdomain)(PORT = 1521))
+ (CONNECT_DATA =
+	(SERVER = DEDICATED)
+	(SERVICE_NAME = ANAJ)
+ )
+ )
+ 

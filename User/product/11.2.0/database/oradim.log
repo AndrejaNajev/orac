@@ -1,0 +1,75 @@
+
+Fri Jun 03 23:13:05 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid anaj -usrpwd * -shutmode immediate -log oradim.log 
+Fri Jun 03 23:13:10 2016
+ORA-01012: not logged on
+
+
+Fri Jun 03 23:31:56 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid anaj -usrpwd * -shutmode immediate -log oradim.log 
+Fri Jun 03 23:31:57 2016
+ORA-01012: not logged on
+
+
+Wed Jun 08 22:18:55 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid anaj -usrpwd * -shutmode immediate -log oradim.log 
+Wed Jun 08 22:18:58 2016
+ORA-01507: database not mounted
+
+
+Wed Jun 08 22:19:03 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid dup -usrpwd * -shutmode immediate -log oradim.log 
+Wed Jun 08 22:19:07 2016
+ORA-01507: database not mounted
+
+
+Thu Jun 09 21:30:57 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid anaj -usrpwd * -shutmode immediate -log oradim.log 
+
+Thu Jun 09 21:31:25 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid dup -usrpwd * -shutmode immediate -log oradim.log 
+Thu Jun 09 21:31:27 2016
+ORA-01507: database not mounted
+
+
+Thu Jun 09 21:48:47 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid dup -usrpwd * -shutmode immediate -log oradim.log 
+Thu Jun 09 21:48:49 2016
+ORA-01507: database not mounted
+
+
+Thu Jun 09 21:48:52 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid anaj -usrpwd * -shutmode immediate -log oradim.log 
+
+Fri Jun 10 15:59:32 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid dup -usrpwd * -shutmode immediate -log oradim.log 
+Fri Jun 10 15:59:33 2016
+ORA-24327: need explicit attach before authenticating a user
+
+
+Tue Jun 14 16:31:34 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid vjezba -usrpwd * -shutmode immediate -log oradim.log 
+
+Tue Jun 14 16:40:47 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid vjezba -usrpwd * -shutmode immediate -log oradim.log 
+Tue Jun 14 16:40:48 2016
+ORA-01012: not logged on
+
+
+Tue Jun 14 17:18:36 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid vjezba -usrpwd * -shutmode immediate -log oradim.log 
+Tue Jun 14 17:18:37 2016
+ORA-01012: not logged on
+
+
+Tue Jun 14 20:45:38 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid vjezba -usrpwd * -shutmode immediate -log oradim.log 
+Tue Jun 14 20:45:39 2016
+ORA-01012: not logged on
+
+
+Wed Jun 15 23:15:02 2016
+C:\app\User\product\11.2.0\dbhome_1\bin\oradim.exe -shutdown -sid vjezba -usrpwd * -shutmode immediate -log oradim.log 
+Wed Jun 15 23:15:03 2016
+ORA-01012: not logged on
+
